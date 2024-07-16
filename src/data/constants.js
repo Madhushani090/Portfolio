@@ -324,8 +324,7 @@ export const Bio = {
       description:
         "Developed a full-stack web application that allows users to search for, play, and pause their favorite podcasts on demand and create podcasts. Implemented user authentication using Google Auth and Jwt Auth, made responsive user interface with React JS that provides users with a seamless experience across all devices. Practiced agile methodologies to optimize team efficiency and communication.",
       image:
-          "https://private-user-images.githubusercontent.com/127594325/348651160-aba1b1f9-dc40-4241-9ffd-a85f3f341e83.jpeg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjEwMzQ2NTUsIm5iZiI6MTcyMTAzNDM1NSwicGF0aCI6Ii8xMjc1OTQzMjUvMzQ4NjUxMTYwLWFiYTFiMWY5LWRjNDAtNDI0MS05ZmZkLWE4NWYzZjM0MWU4My5qcGVnP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI0MDcxNSUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNDA3MTVUMDkwNTU1WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9MzcwYTE1NTNlMjgyNTQwODVjNjg3YWY4MTE3Y2I1NjI2MGVhNmYyM2FlZDJhMGU0YTM0MWYwMTgxODc0MmU5ZSZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmYWN0b3JfaWQ9MCZrZXlfaWQ9MCZyZXBvX2lkPTAifQ.h8EPJZpMWmAUUUJAXs071DuBH14HhFdi-zE9aSbPWYM", 
-      tags: ["React Js", "MongoDb", "Node Js", "Express Js"],
+"https://private-user-images.githubusercontent.com/127594325/348651160-aba1b1f9-dc40-4241-9ffd-a85f3f341e83.jpeg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjExMTk1MjgsIm5iZiI6MTcyMTExOTIyOCwicGF0aCI6Ii8xMjc1OTQzMjUvMzQ4NjUxMTYwLWFiYTFiMWY5LWRjNDAtNDI0MS05ZmZkLWE4NWYzZjM0MWU4My5qcGVnP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI0MDcxNiUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNDA3MTZUMDg0MDI4WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9NjMwZTgyMmI1NzNlYzkwOGQwNWVmNGRlNzNkMjU3MzI3NmE3N2NlNTg5YmEzNTE5Zjg1MTllZjhmODE4ZjVhZCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmYWN0b3JfaWQ9MCZrZXlfaWQ9MCZyZXBvX2lkPTAifQ.zuW30Bddik5NPaO_O0Ee63DPy7hiHktmlLvKnu5We-o",      tags: ["React Js", "MongoDb", "Node Js", "Express Js"],
       category: "web app",
       github: "/",
       webapp: "/",
@@ -345,7 +344,7 @@ export const Bio = {
         "Java",
         "JavaScript ",
         "MySQL",
-        ,
+        
       ],
       category: "web app",
       github: "/",
@@ -358,7 +357,7 @@ export const Bio = {
       description:
         "Developed auction System that is user-friendly platform designed to facilitate seamless buying and selling through a virtual auction environment. ",
       image:
-        "https://github.com/rishavchanda/Brain-Tumor-Detection/raw/main/Readme_resource/Image2.png",
+        "https://private-user-images.githubusercontent.com/127594325/348651160-aba1b1f9-dc40-4241-9ffd-a85f3f341e83.jpeg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjExMTk1MjgsIm5iZiI6MTcyMTExOTIyOCwicGF0aCI6Ii8xMjc1OTQzMjUvMzQ4NjUxMTYwLWFiYTFiMWY5LWRjNDAtNDI0MS05ZmZkLWE4NWYzZjM0MWU4My5qcGVnP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI0MDcxNiUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNDA3MTZUMDg0MDI4WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9NjMwZTgyMmI1NzNlYzkwOGQwNWVmNGRlNzNkMjU3MzI3NmE3N2NlNTg5YmEzNTE5Zjg1MTllZjhmODE4ZjVhZCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmYWN0b3JfaWQ9MCZrZXlfaWQ9MCZyZXBvX2lkPTAifQ.zuW30Bddik5NPaO_O0Ee63DPy7hiHktmlLvKnu5We-o",
       tags: ["HTML", "CSS", "Java", "MySQL", "PHP", ],
       category: "web app",
       github: "/",
@@ -385,8 +384,7 @@ export const Bio = {
       description:
         "Developed dynamic task management app that allows users to add, delete, update, and view tasks..",
       image:
-             "https://private-user-images.githubusercontent.com/127594325/348649801-c78e67d3-1ed5-41cc-acfd-b954e7e4588e.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjEwMzQzMTEsIm5iZiI6MTcyMTAzNDAxMSwicGF0aCI6Ii8xMjc1OTQzMjUvMzQ4NjQ5ODAxLWM3OGU2N2QzLTFlZDUtNDFjYy1hY2ZkLWI5NTRlN2U0NTg4ZS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNzE1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDcxNVQwOTAwMTFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mMTI3ZjQ2ZjE5N2I1MzRlYWU4YmIwMjg1YzQ3YTAyMzMzZjU1NTk3MjYwZDNiN2RiYzgwZTlmZWI0ZjhmNTI0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.IqJw1kE2QPOwlK4b7SLiHgBWpBIGgT900Mgf2eNWM_w",
-      tags: ["Java ", "Kotlin", "SQLite"],
+"https://private-user-images.githubusercontent.com/127594325/348649801-c78e67d3-1ed5-41cc-acfd-b954e7e4588e.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjExMTk0MTgsIm5iZiI6MTcyMTExOTExOCwicGF0aCI6Ii8xMjc1OTQzMjUvMzQ4NjQ5ODAxLWM3OGU2N2QzLTFlZDUtNDFjYy1hY2ZkLWI5NTRlN2U0NTg4ZS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNzE2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDcxNlQwODM4MzhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lMGUzOWQyZTA2OTJhMDYxZGMwNjlmZjIwYjlkYmQ1ZWU1YjU3NzAwYTYyZDc0MDM3ZTM4N2NjNDM1NTgwYWJmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.SWaAiQFV9qqNpSV5TTcSDVIVKA3MPgPtkYYb3UXa5Io",      tags: ["Java ", "Kotlin", "SQLite"],
       category: "android app",
       github: "https://github.com/Madhushani090/My-Task-App",
       webapp: "/",
@@ -398,8 +396,7 @@ export const Bio = {
       description:
         "Developed dynamic snake game app named Jungle Snake is a classical snake game developed for Android using Kotlin programming language. Snake game is a popular arcade game where players control a snake that grows in length as it consumes food. ",
       image:
-      "https://private-user-images.githubusercontent.com/127594325/348648594-49e872db-beff-4529-b904-241b8064119f.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjEwMzQwMzUsIm5iZiI6MTcyMTAzMzczNSwicGF0aCI6Ii8xMjc1OTQzMjUvMzQ4NjQ4NTk0LTQ5ZTg3MmRiLWJlZmYtNDUyOS1iOTA0LTI0MWI4MDY0MTE5Zi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNzE1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDcxNVQwODU1MzVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03Y2VhZTc0ZDkwN2FjNTI2Y2M5NjFiNWUyMTQ5ODc0Mjg4MGE2NjNkYWQwNTI3ZTEzOGNkMGEzOGE4YmE0OWIwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.Ox2_10h3JfkMELfzv9yXL4jZc34lzmdu1SSKYfEA3Uc",
-
+"https://private-user-images.githubusercontent.com/127594325/348648594-49e872db-beff-4529-b904-241b8064119f.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjExMTk0NjMsIm5iZiI6MTcyMTExOTE2MywicGF0aCI6Ii8xMjc1OTQzMjUvMzQ4NjQ4NTk0LTQ5ZTg3MmRiLWJlZmYtNDUyOS1iOTA0LTI0MWI4MDY0MTE5Zi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNzE2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDcxNlQwODM5MjNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zMmNjNGQ0YjFkYmJkMjRiYjIxOTZmY2Q4ZGU3YTgwYjQ1MGY3M2Y1ZmFhMDJhZmVlYWRjM2VkYjBmMDRlMjBmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.YoFZ-_iPEqJLjSexzuzI4qlLdT76RV5VTKxUNMqA68Q",
       tags: ["Java ", "Kotlin", "SQLite"],
       category: "android app",
       github: "https://github.com/Madhushani090/My-Task-App",
@@ -479,4 +476,3 @@ export const Bio = {
     { year: 2020, text: "Shared my projects with the world" },
     { year: 2021, text: "Started my own platform" },
   ];
-  
