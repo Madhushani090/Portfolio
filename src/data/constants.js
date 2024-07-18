@@ -123,8 +123,7 @@ export const Bio = {
         {
           name: "Swift ",
           image:
-            "https://en.wikipedia.org/wiki/Swift_(programming_language)#/media/File:Swift_logo.svg",
-        },
+           "https://en.wikipedia.org/wiki/Swift_(programming_language)#/media/File:Swift_logo.svg",        },
       ],
     },
     {
