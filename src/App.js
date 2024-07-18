@@ -7,7 +7,6 @@ import { BrowserRouter as Router } from 'react-router-dom';
 import HeroSection from "./components/HeroSection";
 import Skills from "./components/Skills";
 import Projects from "./components/Projects";
-import Contact from "./components/Contact";
 import Footer from "./components/Footer";
 import Education from "./components/Education";
 import ProjectDetails from "./components/ProjectDetails";
@@ -47,9 +46,7 @@ function App() {
           <Wrapper id="projects">
             <Projects openModal={openModal} setOpenModal={setOpenModal} />
           </Wrapper>
-          <Wrapper id="contact">
-            <Contact />
-          </Wrapper>
+         
           <Footer />
           {openModal.state && <ProjectDetails openModal={openModal} setOpenModal={setOpenModal} />}
         </Body>
