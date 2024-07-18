@@ -333,7 +333,8 @@ export const Bio = {
       description:
         "Designed and developed the school information management system , a web app app that helps users and teams stay organized and on track. Implemented key features such as task tracking, team collaboration, and time tracking to improve productivity and project outcomes and also invite team/project members. The plan is to add a community of users where they can find developers and other team members and chat system implementation.",
       image:
-        "https://user-images.githubusercontent.com/64485885/234916413-96296f13-fe4b-4cc4-b215-e72bd7c27928.png",
+      "https://private-user-images.githubusercontent.com/127594325/348651160-aba1b1f9-dc40-4241-9ffd-a85f3f341e83.jpeg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjExMTk1MjgsIm5iZiI6MTcyMTExOTIyOCwicGF0aCI6Ii8xMjc1OTQzMjUvMzQ4NjUxMTYwLWFiYTFiMWY5LWRjNDAtNDI0MS05ZmZkLWE4NWYzZjM0MWU4My5qcGVnP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI0MDcxNiUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNDA3MTZUMDg0MDI4WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9NjMwZTgyMmI1NzNlYzkwOGQwNWVmNGRlNzNkMjU3MzI3NmE3N2NlNTg5YmEzNTE5Zjg1MTllZjhmODE4ZjVhZCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmYWN0b3JfaWQ9MCZrZXlfaWQ9MCZyZXBvX2lkPTAifQ.zuW30Bddik5NPaO_O0Ee63DPy7hiHktmlLvKnu5We-o",
+
       tags: [
         "HTML",
         "CSS",
