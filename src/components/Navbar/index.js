@@ -167,8 +167,8 @@ const Navbar = () => {
   return (
         <Nav>
            <NavContainer>
-             <NavLogo to="/"> 
-               <a
+             <NavLogo to='/'> 
+               {/* <a
                   style={{
                     display:"flex",
                     alignItems:"center",
@@ -180,7 +180,18 @@ const Navbar = () => {
                 >
                     <DiCssdeck size="3rem"/> <span>Portfolio</span>
 
-               </a>
+               </a> */}
+               <div
+            style={{
+              display: "flex",
+              alignItems: "center",
+              color: "black",
+              marginTop: "20;",
+              cursor: "pointer",
+            }}
+          >
+            <DiCssdeck size="3rem" /> <Span>Portfolio</Span>
+          </div>
              
              </NavLogo>
              <MobileIcon>
@@ -199,7 +210,7 @@ const Navbar = () => {
                 <NavLink href='#skills'>Skills</NavLink>
                 <NavLink href='#education'>Education</NavLink>
                 <NavLink href='#projects'>Projects</NavLink>
-                <NavLink href='#contact'>Contact </NavLink>
+                
 
                </NavItems>
                <ButtonContainer>
@@ -222,9 +233,7 @@ const Navbar = () => {
             <MobileMenuLink href="#projects"onClick={() => {
               setOpen(!open)
             }}>Projects</MobileMenuLink>
-            <MobileMenuLink href="#contact" onClick={() => {
-              setOpen(!open)
-            }}>Contact</MobileMenuLink>
+           
             <GitHubButton style={{padding: '10px 16px',background: `${theme.primary}`, color: 'white',width: 'max-content'}} href={Bio.github} target="_blank">Github Profile</GitHubButton>
 
 
