@@ -11,7 +11,6 @@ import Footer from "./components/Footer";
 import Education from "./components/Education";
 import ProjectDetails from "./components/ProjectDetails";
 import styled from "styled-components";
-import {Helmet} from "react-helmet";
 
 const Body = styled.div`
   background-color: ${({ theme }) => theme.bg};
@@ -31,13 +30,7 @@ function App() {
 
   return (
     <ThemeProvider theme={darkMode ? darkTheme : lightTheme}>
-      <Helmet>
-                <meta charSet="utf-8" />
-                <title>Ishini Madhushani</title>
-                <link rel="canonical" href="http://mysite.com/example" />
-                <meta name="description" content="myportfolio" />
-
-            </Helmet>
+      
       <Router>
         <Navbar />
         <Body>
